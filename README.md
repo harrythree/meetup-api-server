@@ -10,7 +10,9 @@ Create a sample app using Node.js and Express.js to integrate the [Meetup API](h
 
 * I used the basic [API Key authentication method](http://www.meetup.com/meetup_api/auth/) for making requests to the Meetup API. They also have ways to authenticate with oAuth 1 and 2. The meetup-api module handles all 3 authentication methods which is nice.
 
-* Overall very use to use and well documented.
+* Project generated using express generator.
+
+* Overall very easy to use and well documented.
 
 ## Running sample project
 
