@@ -26,7 +26,5 @@ function renderIndex(res, next, err, results) {
 		return next(err);
 	}
 
-	console.log(results.events.results);
-
 	res.render('index', { group: results.group, events: results.events.results });
 }
